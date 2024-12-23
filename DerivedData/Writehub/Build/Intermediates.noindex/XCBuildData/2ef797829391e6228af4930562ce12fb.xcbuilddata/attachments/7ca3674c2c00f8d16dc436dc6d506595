@@ -1,0 +1,190 @@
+{
+  "" : {
+    "const-values" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Writehub-master.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Writehub-master.d",
+    "diagnostics" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Writehub-master.dia",
+    "emit-module-dependencies" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Writehub-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Writehub-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Writehub-master.swiftdeps"
+  },
+  "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Auth/LoginService.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/LoginService.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/LoginService.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/LoginService.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Auth/SignupService.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/SignupService.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/SignupService.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/SignupService.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Networking/APIManager.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/APIManager.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/APIManager.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/APIManager.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Networking/NetworkError.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/NetworkError.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/NetworkError.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/NetworkError.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Post/CommentService.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/CommentService.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/CommentService.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/CommentService.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Post/LikeService.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/LikeService.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/LikeService.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/LikeService.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Post/PostService.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostService.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostService.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostService.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/User/UserService.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/UserService.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/UserService.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/UserService.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/AppDelegate.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/AuthViewController.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/AuthViewController.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/AuthViewController.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/AuthViewController.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/CreatePostViewController.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/CreatePostViewController.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/CreatePostViewController.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/CreatePostViewController.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/HomeViewController.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/HomeViewController.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/HomeViewController.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/HomeViewController.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/LoginViewController.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/LoginViewController.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/LoginViewController.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/LoginViewController.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/MainTabBarController.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/MainTabBarController.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/MainTabBarController.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/MainTabBarController.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/NotificationController.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/NotificationController.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/NotificationController.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/NotificationController.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/PostDetailViewController.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostDetailViewController.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostDetailViewController.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostDetailViewController.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/ProfileViewController.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/ProfileViewController.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/ProfileViewController.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/ProfileViewController.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/SignupViewController.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/SignupViewController.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/SignupViewController.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/SignupViewController.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/Comment.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Comment.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Comment.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Comment.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/Like.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Like.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Like.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Like.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/Post.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Post.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Post.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Post.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/PostData.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostData.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostData.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostData.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/PostResponse.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostResponse.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostResponse.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostResponse.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/User.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/User.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/User.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/User.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/UserData.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/UserData.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/UserData.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/UserData.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/UserResponse.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/UserResponse.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/UserResponse.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/UserResponse.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/SceneDelegate.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/SceneDelegate.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Utilities/Constants.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Constants.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Constants.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Constants.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Utilities/Extensions.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Extensions.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Extensions.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Extensions.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Utilities/Helpers.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Helpers.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Helpers.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/Helpers.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Utilities/JSONDecoderExtension.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/JSONDecoderExtension.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/JSONDecoderExtension.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/JSONDecoderExtension.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/ViewController.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/ViewController.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Views/CommentCell.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/CommentCell.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/CommentCell.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/CommentCell.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Views/PostCell.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostCell.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostCell.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/PostCell.o"
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Views/UIImageView.swift" : {
+    "index-unit-output-path" : "/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/UIImageView.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/UIImageView.bc",
+    "object" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Writehub.build/Debug-iphonesimulator/Writehub.build/Objects-normal/arm64/UIImageView.o"
+  }
+}

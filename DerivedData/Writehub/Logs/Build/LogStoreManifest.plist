@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>4FB52152-D2A0-463A-A00F-3B8E681D4B7A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4FB52152-D2A0-463A-A00F-3B8E681D4B7A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Writehub project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Writehub</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Writehub</string>
+			<key>timeStartedRecording</key>
+			<real>748801326.03022397</real>
+			<key>timeStoppedRecording</key>
+			<real>748801332.13778496</real>
+			<key>title</key>
+			<string>Build Writehub</string>
+			<key>uniqueIdentifier</key>
+			<string>4FB52152-D2A0-463A-A00F-3B8E681D4B7A</string>
+		</dict>
+		<key>9669071E-8DB9-4421-820D-18CA6C38BD46</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9669071E-8DB9-4421-820D-18CA6C38BD46.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Writehub project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Writehub</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Writehub</string>
+			<key>timeStartedRecording</key>
+			<real>746228017.66136801</real>
+			<key>timeStoppedRecording</key>
+			<real>746228019.04777706</real>
+			<key>title</key>
+			<string>Build Writehub</string>
+			<key>uniqueIdentifier</key>
+			<string>9669071E-8DB9-4421-820D-18CA6C38BD46</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

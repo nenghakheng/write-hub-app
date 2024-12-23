@@ -1,0 +1,22 @@
+Target dependency graph (11 targets)
+Target 'Writehub' in project 'Writehub'
+➜ Implicit dependency on target 'Pods-Writehub' in project 'Pods' via file 'Pods_Writehub.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'SnapKit' in project 'Pods' via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS'
+Target 'Writehub' in project 'Writehub'
+➜ Implicit dependency on target 'Pods-Writehub' in project 'Pods' via file 'Pods_Writehub.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'SnapKit' in project 'Pods' via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-Writehub' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+Target 'SnapKit' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit-SnapKit_Privacy' in project 'Pods'
+Target 'SnapKit-SnapKit_Privacy' in project 'Pods' (no dependencies)
+Target 'Pods-Writehub' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+Target 'SnapKit' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit-SnapKit_Privacy' in project 'Pods'
+Target 'SnapKit-SnapKit_Privacy' in project 'Pods' (no dependencies)
+Target 'Pods-Writehub' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+Target 'SnapKit' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit-SnapKit_Privacy' in project 'Pods'
+Target 'SnapKit-SnapKit_Privacy' in project 'Pods' (no dependencies)

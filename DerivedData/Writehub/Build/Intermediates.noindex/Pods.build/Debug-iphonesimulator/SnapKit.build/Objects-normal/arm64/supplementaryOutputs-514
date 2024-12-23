@@ -1,0 +1,24 @@
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/ConstraintItem.swift":
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintItem.dia"
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintItem.d"
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintItem.o"
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintItem.swiftconstvalues"
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintItem.swiftdeps"
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/ConstraintInsets.swift":
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintInsets.dia"
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintInsets.o"
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintInsets.d"
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintInsets.swiftconstvalues"
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintInsets.swiftdeps"
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/ConstraintLayoutGuide.swift":
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.d"
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.o"
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.swiftconstvalues"
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.dia"
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.swiftdeps"
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/ConstraintInsetTarget.swift":
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintInsetTarget.o"
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintInsetTarget.swiftconstvalues"
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintInsetTarget.swiftdeps"
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintInsetTarget.d"
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintInsetTarget.dia"

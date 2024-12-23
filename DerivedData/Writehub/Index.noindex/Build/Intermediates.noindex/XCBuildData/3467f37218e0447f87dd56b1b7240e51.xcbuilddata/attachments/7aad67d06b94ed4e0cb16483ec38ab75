@@ -1,0 +1,117 @@
+{
+  "" : {
+    "dependencies" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Index.noindex/Build/Intermediates.noindex/Writehub.build/Debug-iphoneos/Writehub.build/Objects-normal/arm64/Writehub-master.d",
+    "diagnostics" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Index.noindex/Build/Intermediates.noindex/Writehub.build/Debug-iphoneos/Writehub.build/Objects-normal/arm64/Writehub-master.dia",
+    "emit-module-dependencies" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Index.noindex/Build/Intermediates.noindex/Writehub.build/Debug-iphoneos/Writehub.build/Objects-normal/arm64/Writehub-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Index.noindex/Build/Intermediates.noindex/Writehub.build/Debug-iphoneos/Writehub.build/Objects-normal/arm64/Writehub-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Index.noindex/Build/Intermediates.noindex/Writehub.build/Debug-iphoneos/Writehub.build/Objects-normal/arm64/Writehub-master.swiftdeps"
+  },
+  "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Index.noindex/Build/Intermediates.noindex/Writehub.build/Debug-iphoneos/Writehub.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Auth/LoginService.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Auth/SignupService.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Networking/APIManager.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Networking/NetworkError.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Post/CommentService.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Post/LikeService.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/Post/PostService.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/API/User/UserService.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/AppDelegate.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/AuthViewController.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/CreatePostViewController.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/HomeViewController.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/LoginViewController.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/MainTabBarController.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/NotificationController.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/PostDetailViewController.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/ProfileViewController.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Controllers/SignupViewController.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/Comment.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/Like.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/Post.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/PostData.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/PostResponse.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/User.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/UserData.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Models/UserResponse.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/SceneDelegate.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Utilities/Constants.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Utilities/Extensions.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Utilities/Helpers.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Utilities/JSONDecoderExtension.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/ViewController.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Views/CommentCell.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Views/PostCell.swift" : {
+
+  },
+  "/Users/macbookpro/Documents/Writehub/Writehub/Views/UIImageView.swift" : {
+
+  }
+}

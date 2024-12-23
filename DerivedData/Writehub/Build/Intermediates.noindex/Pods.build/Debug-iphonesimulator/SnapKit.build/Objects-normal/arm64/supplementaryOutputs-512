@@ -1,0 +1,24 @@
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/ConstraintConfig.swift":
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConfig.swiftconstvalues"
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConfig.d"
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConfig.swiftdeps"
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConfig.dia"
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConfig.o"
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/Constraint.swift":
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Constraint.swiftconstvalues"
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Constraint.dia"
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Constraint.d"
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Constraint.o"
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Constraint.swiftdeps"
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/ConstraintAttributes.swift":
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.d"
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.o"
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.swiftdeps"
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.swiftconstvalues"
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.dia"
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/ConstraintConstantTarget.swift":
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.o"
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.d"
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.swiftdeps"
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.swiftconstvalues"
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.dia"

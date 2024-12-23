@@ -1,0 +1,24 @@
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/ConstraintMultiplierTarget.swift":
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.o"
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.swiftconstvalues"
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.swiftdeps"
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.d"
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.dia"
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/ConstraintMakerRelatable.swift":
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.swiftconstvalues"
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.dia"
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.o"
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.d"
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.swiftdeps"
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift":
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.swiftdeps"
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.d"
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.dia"
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.o"
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.swiftconstvalues"
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/ConstraintMakerPrioritizable.swift":
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.swiftdeps"
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.d"
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.o"
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.swiftconstvalues"
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.dia"

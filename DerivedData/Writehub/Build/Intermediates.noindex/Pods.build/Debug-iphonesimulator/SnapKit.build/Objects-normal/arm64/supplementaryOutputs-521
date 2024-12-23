@@ -1,0 +1,18 @@
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/LayoutConstraintItem.swift":
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.swiftconstvalues"
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.o"
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.swiftdeps"
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.dia"
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.d"
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/Typealiases.swift":
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.swiftconstvalues"
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.d"
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.o"
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.dia"
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.swiftdeps"
+"/Users/macbookpro/Documents/Writehub/Pods/SnapKit/Sources/UILayoutSupport+Extensions.swift":
+  const-values: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.swiftconstvalues"
+  object: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.o"
+  dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.d"
+  swift-dependencies: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.swiftdeps"
+  diagnostics: "/Users/macbookpro/Documents/Writehub/DerivedData/Writehub/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.dia"

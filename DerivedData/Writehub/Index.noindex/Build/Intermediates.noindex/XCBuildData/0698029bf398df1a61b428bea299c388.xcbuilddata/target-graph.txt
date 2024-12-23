@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'Writehub' in project 'Writehub' (no dependencies)
+Target 'Writehub' in project 'Writehub' (no dependencies)
